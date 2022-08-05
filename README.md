@@ -1,7 +1,9 @@
 # Zoo Animal
 - Dibuat untuk memenuhi tugas akhir Belajar Membuat Aplikasi Flutter untuk Pemula dari Dicoding
-- Menggunakan API gratis dari https://zoo-animal-api.herokuapp.com/
+- Menampilkan list data API dari https://zoo-animal-api.herokuapp.com/
+- Dark mode
+- Loading placeholder
+- Image error handling
 ---
-> Bintang 1 : Semua ketentuan terpenuhi, namun terdapat indikasi plagiat yaitu dengan menggunakan proyek orang lain dan hanya mengubah kontennya saja.
----
-Kunjungi https://hijoem.github.com dan https://www.dicoding.com/users/hijoem4/academies
+Kunjungi https://hijoem.github.com
+Kelas yang saya pelajari https://www.dicoding.com/users/hijoem4/academies
